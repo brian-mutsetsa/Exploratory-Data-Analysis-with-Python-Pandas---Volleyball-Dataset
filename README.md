@@ -26,8 +26,8 @@ This analysis looks at **offence, defence, positions, and more** to give a compr
 ---
 
 ## 📂 Files  
-📊 **Dataset:** [VNL2023.csv](VNL2023.csv)  [Download Original Dataset](https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023)
-📕 **Jupyter Notebook:** [code.ipynb](code.ipynb)
+- 📊 **Dataset:** [VNL2023.csv](VNL2023.csv)  [Download Original Dataset](https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023)
+- 📕 **Jupyter Notebook:** [code.ipynb](code.ipynb)
 
 ---
 
