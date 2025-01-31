@@ -65,11 +65,3 @@ This analysis looks at **offence, defence, positions, and more** to give a compr
 > *All visuals are available in the Jupyter Notebook!*  
 
 ---
-
-## 🚀 Running the Project Locally  
-
-### **Prerequisites**  
-1. Install Python **3.8+**  
-2. Install the required dependencies:  
-   ```bash
-   pip install -r requirements.txt
