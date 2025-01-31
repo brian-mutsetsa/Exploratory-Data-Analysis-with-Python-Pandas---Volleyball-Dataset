@@ -1,11 +1,11 @@
 # 🏐 Volleyball Nations League 2023: Data Exploration with Python  
 
 ## 📌 Overview  
-This project dives into **Exploratory Data Analysis (EDA)** on the **2023 Volleyball Nations League dataset**, uncovering key trends in team performance, match dynamics, and scoring patterns. Using Python, I analyzed match statistics to provide insights that can help teams, analysts, and sports enthusiasts better understand the competition.  This was part of a follow along project on this tutorial ([YouTube Link](https://www.youtube.com/watch?v=c6O0KWcg4Eg&list=PLTsu3dft3CWhLHbHTTzvG3Vx8XDWemG17&index=2))
+This project dives into **Exploratory Data Analysis (EDA)** on the **2023 Volleyball Nations League dataset**, uncovering key trends in team performance, match dynamics, and scoring patterns. Using Python, I analyzed match statistics to provide insights that can help teams, analysts, and sports enthusiasts better understand the competition.  This was part of a follow-along project on this tutorial ([YouTube Link](https://www.youtube.com/watch?v=c6O0KWcg4Eg&list=PLTsu3dft3CWhLHbHTTzvG3Vx8XDWemG17&index=2))
 
 With a data-driven approach, this project explores:  
 - **Which positions are most common in professional volleyball?** 🏆  
-- **Which teams and players dominate in attack and defense?** 🔥  
+- **Which teams and players dominate in attack and defence?** 🔥  
 - **What is the ideal age range for peak volleyball performance?** ⏳   
 
 ---
@@ -13,7 +13,7 @@ With a data-driven approach, this project explores:
 ## 🔍 What is Data Exploration?  
 Data exploration helps uncover hidden patterns and insights within datasets. 🕵️ In sports analytics, EDA allows us to **identify strengths and weaknesses**, optimize team strategies, and predict future outcomes based on historical data.  
 
-This analysis looks at **offense, defence, positions, and more** to give a comprehensive view of the Volleyball Nations League 2023 season.  
+This analysis looks at **offence, defence, positions, and more** to give a comprehensive view of the Volleyball Nations League 2023 season.  
 
 ---
 
@@ -26,8 +26,8 @@ This analysis looks at **offense, defence, positions, and more** to give a compr
 ---
 
 ## 📂 Files  
-📊 **Dataset:** [VNL2023.csv]()  [Download Original Dataset](https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023)
-📕 **Jupyter Notebook:** [code.ipynb]()
+📊 **Dataset:** [VNL2023.csv](VNL2023.csv)  [Download Original Dataset](https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023)
+📕 **Jupyter Notebook:** [code.ipynb](code.ipynb)
 
 ---
 
